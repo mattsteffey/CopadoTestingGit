@@ -128,4 +128,8 @@
         <name>copado__Copado_Selenium_Testing</name>
         <type>CustomApplication</type>
     </appMenuItems>
+    <appMenuItems>
+        <name>Templates_Chrome_Extension</name>
+        <type>ConnectedApp</type>
+    </appMenuItems>
 </AppMenu>
